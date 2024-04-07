@@ -14,6 +14,7 @@ include ("includes/header.php");?>
 
     <?php  session_unset(); } ?>
     <div class="card card-body">
+        <h3 class="h6 text-center">Introduce tareas aqui!</h3>
         <form action="save_task.php" method="POST">
             <div class="form-group p-2">
                 <input type="text" name="title" class="form-control"

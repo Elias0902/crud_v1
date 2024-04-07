@@ -7,6 +7,7 @@
     <title>CRUD</title>
     <html data-theme="dark">
     <html class="theme-dark">
+    <link rel="shortcut icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMNzPvSXjV15vZXMUI22U-W-xva7I5UGAmijspN_RkQ&s" type="image/x-icon">
     <!--FONT AWENSOME ICONOS LINK -->
     <script src="https://kit.fontawesome.com/e8d51cac66.js" crossorigin="anonymous"></script>
 </head>
@@ -25,3 +26,5 @@
     </div>  
   </div>
 </nav>
+
+<h1 class="text-center p-5">CRUD ELIAS ANTONIO ARMAS PEREZ</h1>
